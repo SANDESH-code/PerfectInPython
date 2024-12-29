@@ -1,3 +1,5 @@
+
+# Please write proper comments with explanation
 def check_pass(input_pass):
     valid_pass = []
     current_pass = ""
